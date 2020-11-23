@@ -32,7 +32,7 @@ if(tok == "" || tok == null){
 	return false;
 }
 for (i = 0; i < fr; i++) {
-  send(tok,id,"spam boy here :)\n~#@L_DEVv");
+  send(tok,id,"spam boy here :)\n~#FUCK YOU");
   $("#message").html(i + 1);
 } 
 }
